@@ -1,3 +1,5 @@
+# Simulador de circuitos de 1er y 2do orden con parámetros R, L y C.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
